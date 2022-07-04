@@ -10,7 +10,9 @@ Collection of resources related with Graph Contrastive Learning.
   - [2019](#2019)
   - [2020](#2020)
   - [2021](#2021)
+  - [2022](#2022)
 - [Library](#library)
+
 
 
 <a name="papers" />
@@ -102,11 +104,26 @@ Collection of resources related with Graph Contrastive Learning.
         + __Task:__ *Node Classification* | __Datasets:__ *ogbn-arxiv, CS, Physics, Cora-ML,  Cora-Full, DBLP, Chameleon, Four-Univ, Wiki-CS, Photo, Computers, Flickr, Crocodile,  Cora, CiteSeer, PubMed, PPI.* | __Baselines:__ *GCN, GraphSAGE, GAT, CGAT, GLCN, LDS, GCN + GAM, GCN + NS.*
         + __Task:__ *Link Prediction* | __Datasets:__ *Cora, CiteSeer, PubMed, PPI.* | __Baselines:__ 
 
+### 2022
+<a name="2022" />
 
+1. **CCGL: Contrastive Cascade Graph Learning** *Xovee Xu, Fan Zhou, Kunpeng Zhang, Siyuan Liu.* IEEE TRANSACTIONS ON KNOWLEDGE AND DATA ENGINEERING 2022
+    + __Paper:__ [*Arxiv*](https://arxiv.org/pdf/2107.12576v2.pdf) | __Code:__ [*tensorflow*](https://github.com/Xovee/ccgl)
+    + __Method:__(*CCGL*): Cascade Graph Learning, Contrastive learning
+    
+2. **SimGRACE: A Simple Framework for Graph Contrastive Learning without Data Augmentation** *Jun Xia, Lirong Wu, Jintao Chen, Bozhen Hu, Stan Z. Li.* WWW 2022 
+    + __Paper:__ [*Arxiv*](https://arxiv.org/pdf/2202.03104v2.pdf) | __Code:__ [*pytorch*](https://github.com/junxia97/simgrace)
 
+3. **Improving Graph Collaborative Filtering with Neighborhood-enriched Contrastive Learning** *Zihan Lin, Changxin Tian, Yupeng Hou, Wayne Xin Zhao.* WWW 2022
+    + __Paper:__ [*Arxiv*](https://arxiv.org/pdf/2202.06200v2.pdf) | __Code:__ [*pytorch*](https://github.com/rucaibox/ncl)
+
+4. **Knowledge Graph Contrastive Learning for Recommendation** *Yuhao Yang, Chao Huang, Lianghao Xia, Chenliang Li.* ACM SIGIR 2022
+    + __Paper:__ [*Arxiv*](https://arxiv.org/pdf/2205.00976v2.pdf) | __Code:__ [*pytorch*](https://github.com/yuh-yang/kgcl-sigir22)
+    
 <a name="library" />
 
 ## Library
++ __PyGCL__:[*pytorch*](https://github.com/PyGCL/PyGCL)
 
 
 
